@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Tie
+title: Tie
 ---
 
 # {{ page.title }}
